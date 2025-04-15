@@ -19,7 +19,7 @@ The architecture is designed for flexibility, allowing users to easily customize
 ## Installation and Requirements
 1. Install [PyTorch](https://pytorch.org/) and clone this repo by running
 ```
-git clone https://github.com/kevinkevin556/deeplake.git
+git clone https://github.com/kevinhongzl/deeplake.git
 ```
 2. (manual) Install dependencies: `monai[pydicom]`,  `ruamel.yaml`, `tqdm`, `loguru`, `tensorboard`, `dicom2nifti`,  `opencv-python`, `jsonargparse[omegaconf]`
   * We utilize [jsonargparse](https://github.com/omni-us/jsonargparse) to generate a easy-to-use CLI automatically.
